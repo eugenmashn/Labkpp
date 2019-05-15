@@ -1,0 +1,20 @@
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+ul{
+    list-style:none;
+}
+ul li{
+    width:50px;
+    height:40px;
+    border:2px solid blue;
+    display:inline-block;
+}
+.blocktext{
+    width:400px;
+    max-width:100%;
+    text-align:center;
+    margin:0 auto;
+}
